@@ -1,0 +1,6 @@
+{
+  "name": "Vitality Hub",
+  "description": "A vibrant youth nutrition and wellness planner with bento-style stats, goals, and meal plan builders tailored for teens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
